@@ -28,3 +28,5 @@ License & Usage
 This code is licensed under the MIT License 
 
 Intended for non-commercial academic research.   For commercial licensing, contact the corresponding author.
+
+The dataset was acquired through privately funded fieldwork and is not publicly available in full. For access requests, please contact the author at: 18579897701@163.com
